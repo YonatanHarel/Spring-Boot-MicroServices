@@ -10,6 +10,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-boot-microservice-currency-conversion" target="1.8" />
+      <module name="spring-boot-microservice-eureka-naming-server" target="1.8" />
       <module name="spring-boot-microservice-forex-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
